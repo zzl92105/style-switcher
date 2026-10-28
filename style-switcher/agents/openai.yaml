@@ -1,0 +1,4 @@
+interface:
+  display_name: "风格切换器"
+  short_description: "切换十种影视文学灵感口吻，支持临时改写、对话常驻、浓度调节与恢复正常"
+  default_prompt: "使用 $style-switcher 列出可选风格，等我选择风格后再开始。"
